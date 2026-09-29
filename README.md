@@ -1,0 +1,2 @@
+# premium-mortise-001-mortise-and-tenon-joint-layout
+Tired of remeasuring every mortise and tenon joint, only to find your chisel slip or your shoulder line vanish mid-cut? This Notion template turns your hard-won layout data into a reusable, searchable cut record so you never rebuild a joint from scratch.  Stop manually re-drawing joint diagrams and losing critical dimensions. Mortise and Tenon Join
